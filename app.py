@@ -1,12 +1,9 @@
-import requests
-import os
-from flask import Flask, render_template, request, session,Response, redirect, jsonify
-from youtube_transcript_api import YouTubeTranscriptApi
+from flask import Flask, render_template, request
 from google import genai
 from google.genai import types
 #=======================================================================================================
 def chatbot_response(user_question):
-    Gemini_api_key = 'AIzaSyCdyAE5eh95p0_f2gf3TNSUWvWbawpn13M'
+    Gemini_api_key = '<your-api-key>'
 
     client = genai.Client(api_key=Gemini_api_key)
 
@@ -76,4 +73,5 @@ def get_bot_response():
     return chatbot_response(userText)
 #=======================================================================================================
 if __name__ == "__main__":
+
     app.run(debug=True, port=8000)
