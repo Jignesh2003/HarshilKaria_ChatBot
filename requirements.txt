@@ -1,0 +1,5 @@
+gemini api key: AIzaSyCdyAE5eh95p0_f2gf3TNSUWvWbawpn13M
+---------------------------------------------------------
+
+pip install google-genai
+pip install flask

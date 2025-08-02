@@ -1,0 +1,772 @@
+{
+  "questions_answers": [
+    {
+      "question": "What are the two different approaches Harshil Karia takes to running Schbang and Level Supermind?",
+      [cite_start]"answer": "Harshil Karia notes that Schbang, a B2B business, and Level Supermind, a B2C product business, require two very different approaches[cite: 8, 17]. [cite_start]His approach for Schbang, an established company, is focused on driving excellence, managing governance for its 1200 people, and upgrading systems[cite: 11]. [cite_start]For Level Supermind, his approach is about building a product and being consumer-centric, which involves listening to consumer feedback and constantly mapping NPS and AARR reports[cite: 14, 15]."
+    },
+    {
+      "question": "What is the central focus of Schbang's operations right now?",
+      [cite_start]"answer": "The real focus for Schbang is on driving excellence, managing governance for its team of about 1200 people, and upgrading systems to ensure optimal resource capacity and high standards of work[cite: 11, 12]."
+    },
+    {
+      "question": "What are the health metrics that define a services business like Schbang, according to Karia?",
+      "answer": "In a services business, the health metrics are primarily the quality of the work, client satisfaction scores, and the optimum efficiency of management of resources. [cite_start]He also mentions profitability management and the company's share of voice[cite: 16]."
+    },
+    {
+      "question": "What are the key metrics Karia uses to manage a product business like Level Supermind?",
+      [cite_start]"answer": "For Level Supermind, the health metrics are focused on product management and include: acquisition, activation, referral, revenue, and retention (AARR report)[cite: 15]."
+    },
+    {
+      "question": "How does Karia split his time between Schbang and Level Supermind?",
+      [cite_start]"answer": "He works Monday to Saturday, dedicating the entire Saturday to Level Supermind[cite: 10]. [cite_start]From Monday to Friday, he splits his time approximately 75% for Schbang and 25% for Level Supermind, which averages out to a 60/40 split[cite: 10]."
+    },
+    {
+      "question": "What is Karia's philosophy on whether founders need to personally relate to a problem they are solving?",
+      [cite_start]"answer": "He believes most founders can acquire empathy and a strong relation to a problem they are solving[cite: 19]. [cite_start]However, he notes that being personally and emotionally linked to a problem from the early stages can provide 'that little extra fuel' needed to go the extra mile and take longer-term risks[cite: 19, 20]."
+    },
+    {
+      "question": "What is Karia's long-term vision for Schbang in the global creative services market?",
+      [cite_start]"answer": "Karia's vision is to take creative talent from India to the world and from the world to India, ultimately building a 100,000-strong global Indian agency[cite: 8, 26, 29, 297]."
+    },
+    {
+      "question": "How does Karia view India's position in the global creative services landscape, and what is the opportunity he sees?",
+      [cite_start]"answer": "On a macro level, Karia states that India is 'nowhere' on the global scale of creative services, as there is no major Indian entity among global leaders like WPP, Omnicom, and Havas[cite: 24]. [cite_start]He views this as a massive opportunity because India has the largest creative workforce in the world[cite: 25]."
+    },
+    {
+      "question": "What makes Schbang's position unique in the industry, and what is its goal for growth?",
+      "answer": "Schbang is uniquely positioned because it operates in a very entrepreneurial fashion and has a strong base of 1200 people. [cite_start]Its goal is to scale to 10,000 and then to 100,000 people, positioning itself as a services company for the New World[cite: 26]."
+    },
+    {
+      "question": "What are Karia's thoughts on the general tech world's strategy of burning short-term capital for long-term growth?",
+      "answer": "Karia states that he doesn't know if he is qualified to comment on how others operate, but he knows how he likes to run his businesses. [cite_start]For a services business, he says there is 'no other way' but to run profitably[cite: 60, 65]."
+    },
+    {
+      "question": "How does Karia manage the profitability of his product business, Level Supermind?",
+      [cite_start]"answer": "He brings the same profitability-first philosophy to Level Supermind, aiming to break even every month after the initial investment[cite: 62]. [cite_start]The company reached operational break-even three months after its launch and has been continuing to invest while remaining at break-even[cite: 64]."
+    },
+    {
+      "question": "When did Harshil Karia realize it was time for Schbang to go international?",
+      [cite_start]"answer": "He saw three signs: clients were getting transferred to international roles, multinational clients' word-of-mouth could lead to more business abroad, and Sir Martin Sorrell's view of India and South America as key 'Supply Centers' for talent[cite: 68, 69, 70]."
+    },
+    {
+      "question": "What is the main reason why Karia believes India is well-poised to be a 'Supply Center' for creative and tech talent?",
+      [cite_start]"answer": "He believes India is well-poised because of its large workforce of 1.4 billion people, which can be leveraged as a massive talent pool[cite: 70]."
+    },
+    {
+      "question": "At what stage in a business's journey does Karia think it's right to consider geographical expansion?",
+      "answer": "Karia believes a business needs a strong home base before looking outside. [cite_start]He suggests that 1,000 people serving a diverse range of clients is a strong home base, and he emphasizes that India remains Schbang's number one priority[cite: 71, 72]."
+    },
+    {
+      "question": "What does Karia believe is a major contributor to success?",
+      [cite_start]"answer": "Karia states that if you 'want badly to also see along with yourself the ones around you win,' then that is a required contributor to success[cite: 110]."
+    },
+    {
+      "question": "What does Karia's philosophy of 'working to give' mean?",
+      "answer": "His core driving philosophy is to 'work to give,' meaning he strives to give beyond what he creates. [cite_start]This guides his approach to creating win-win associations and partnerships[cite: 107]."
+    },
+    {
+      "question": "What would Harshil Karia be doing if he were not a founder of Schbang or Level Supermind?",
+      [cite_start]"answer": "He says he would be working in either of the companies, but if they didn't exist, he would devote most of his time to public service, possibly as a farmer[cite: 111]. [cite_start]He also mentions he would ride a bicycle and work towards making cycles a compulsory form of urban commute[cite: 112, 113]."
+    },
+    {
+      "question": "What is the one thing Karia would like to wish for every citizen in India?",
+      [cite_start]"answer": "He would wish for everyone to have 'vibrancy, exuberance and the zest for life,' and for everyone to find their 'swadharma,' or unique purpose[cite: 122]."
+    },
+    {
+      "question": "How does Karia handle the human challenge of talent retention and high attrition in a services business?",
+      [cite_start]"answer": "Karia acknowledges that attrition is a comparable issue for Schbang, with numbers around 20%[cite: 33]. [cite_start]He accepts that many people will view the workplace as 'transitionary' and his focus is on ensuring they give their 'absolute best' during their time there[cite: 32, 34]. [cite_start]For senior talent, he gives consistent growth and upskilling opportunities, challenges, and pays them well to ensure they feel a shared sense of purpose with the company's vision[cite: 35]."
+    },
+    {
+      "question": "What is Karia's approach to employees who view Schbang as a 'transitionary workplace'?",
+      "answer": "He says that he has no problem with it, but expects them to give their 'absolute best' while they are there. [cite_start]He frames it for their benefit, telling them that the quality of their work will define their future opportunities, whether it's getting into a good university or moving to a brand[cite: 36, 37]."
+    },
+    {
+      "question": "What are the reasons Karia believes people leave companies that are not within his control?",
+      [cite_start]"answer": "The reasons he mentions that are not in his control are: leaving for another university, leaving for another agency, or leaving to join a brand[cite: 36]."
+    },
+    {
+      "question": "How is Schbang's Human Resources structured and managed?",
+      [cite_start]"answer": "The human resources department is led by Mini N., who was Karia's first hire[cite: 40]. Her team manages everything from recruitment to payroll and compliances. [cite_start]He credits her experience in running a network of schools for her ability to manage a strong workforce[cite: 40]."
+    },
+    {
+      "question": "What is the role of Anshul Sharma in managing Schbang's culture and internal communications?",
+      [cite_start]"answer": "Anshul Sharma's role is to enrich the company's culture and internal communications[cite: 41]. [cite_start]He works on two kinds of all-hands meetings, runs the Schbang academy (an internal training platform), and governs the rewards and recognition program for junior talent[cite: 41, 42, 44]."
+    },
+    {
+      "question": "How does Schbang identify 'stars' among its junior talent?",
+      "answer": "The company has a rewards and recognition program where managers award points to junior talent for exceptional performance. [cite_start]There is a company-wide leaderboard for these points, which helps identify the stars[cite: 44, 45]."
+    },
+    {
+      "question": "How does Schbang manage finance and operations, including business plans and PnLs?",
+      "answer": "Dhwani Jagasia and Devanji Zaveri manage finance and operations, overseeing governed PnLs and annual business plans for each business unit. [cite_start]They conduct quarterly business check-ins to review progress against these plans[cite: 47]."
+    },
+    {
+      "question": "What is the key factor Karia looks for when hiring senior talent?",
+      "answer": "He puts a lot of emphasis on their past work, stating that a person's future is often defined by their past behavior. [cite_start]He asks candidates to show and explain exactly how they did their past work[cite: 54, 56]."
+    },
+    {
+      "question": "How does Karia approach the interview process, particularly for first interviews?",
+      [cite_start]"answer": "He used to have long first interviews but now says he gauges a person's 'vibe' very quickly in the first meeting[cite: 56]. [cite_start]He then puts a lot of emphasis on the candidate showing and explaining their past work[cite: 56]."
+    },
+    {
+      "question": "Was Karia's current organizational structure planned from the beginning, or did it evolve over time?",
+      "answer": "He explains that the structure was not a five to seven-year plan from the beginning. [cite_start]Instead, he says, 'you arrive at things as you arrive at things,' and as you walk the path with diligence, the way appears[cite: 51]."
+    },
+    {
+      "question": "What is the one thing Karia would say to his past self on the day he started Schbang?",
+      "answer": "He would tell his past self to remember that 'your life is a set of consequences that have made you arrive at this very present moment.' [cite_start]The advice is to pause, reflect on what brought you to the current moment, and then determine where you want to go next[cite: 124, 125]."
+    },
+    {
+      "question": "How deeply has Harshil Karia studied the Bhagavad Gita, and what is his study process?",
+      "answer": "Karia states that he has been studying the Bhagavad Gita for two and a half years, and in that time, he has only studied six of the eighteen chapters. He consciously decided to take it slow and studies with a group of scholars and seekers. [cite_start]They typically read and discuss two to three verses each week in depth[cite: 74, 75, 76]."
+    },
+    {
+      "question": "What are the top three things Karia has learned from the Bhagavad Gita?",
+      [cite_start]"answer": "He identifies three main learnings: the concept of 'swadharma' (one's unique purpose), the concept of 'detached dutiful work' (working with detachment to outcome), and the 'interconnectedness' of the world[cite: 77, 78, 79, 80]."
+    },
+    {
+      "question": "What three things does Karia believe one needs to surround themselves with, according to the Bhagavad Gita?",
+      [cite_start]"answer": "He mentions 'shastra' (reading the right things), 'sadhus' (surrounding yourself with the right people and mentors), and 'swadhyaya' (your own practice of meditation and stilling the mind)[cite: 82, 83]."
+    },
+    {
+      "question": "What is Karia's conscious effort to apply the teachings of the Bhagavad Gita in his day-to-day life?",
+      "answer": "He practices being clear about his purpose, maintaining humility, and functioning with a detachment to outcome. [cite_start]He also tries to collectively raise the standard of the people he surrounds himself with and orchestrate interconnectedness between things[cite: 86, 87, 88]."
+    },
+    {
+      "question": "What is the vision behind Level Supermind's evolution into a 'mind performance app'?",
+      "answer": "The vision is to move beyond being just a meditation app to a comprehensive 'mind performance' product. [cite_start]It includes a variety of meditation practices, workouts for mind-muscle connection, sleep products, journaling, affirmations, and soon, mind performance games[cite: 90, 91, 92]."
+    },
+    {
+      "question": "What are the scientific benefits of meditation on the brain, according to Karia, and at what timeframes do they appear?",
+      "answer": "According to Karia, based on scientific studies, you see reduced signs of stress in about two weeks of regular practice. [cite_start]Increased focus appears after about two months, and enhanced memory and cognition load are seen after two to five years of consistent practice[cite: 94, 95, 96, 97]."
+    },
+    {
+      "question": "What does the 'science of meditation' mean for the parts of the human brain?",
+      "answer": "Karia explains that meditation creates a 'super highway' between the limbic brain (instincts and reactive nature) and the prefrontal cortex (seat of character and intuition). [cite_start]This strengthens the neural pathways, so a person's actions become more aligned with their thoughts[cite: 97, 98, 99, 100, 101]."
+    },
+    {
+      "question": "What prompted Karia to take on the challenge of building Level Supermind?",
+      "answer": "After doing a market size assessment, he found that despite India being the 'seat of the world' for mindfulness and meditation, there were only major global players from other countries. [cite_start]He saw a 'shame' in this and wanted to take the best of these practices from India and package them in a well-consumed technological format for today's world[cite: 101, 102, 103]."
+    },
+    {
+      "question": "When is Karia in his 'best sense of flow'?",
+      [cite_start]"answer": "He says he is in his best sense of flow early in the morning when 'thoughts ideas coming really from your core' drive his actions[cite: 110]."
+    },
+    {
+      "question": "What is Karia's hobby of cycling, and what is his goal for it?",
+      [cite_start]"answer": "For over five and a half years, he has only been on two wheels (a bicycle) in Mumbai[cite: 114, 115]. [cite_start]If he were not a founder, he would devote his life to driving public policy to get more people to use bicycles for urban commute[cite: 112, 113]."
+    },
+    {
+      "question": "What is the purpose of Karia's songs on entrepreneurship?",
+      "answer": "He has written and composed a song on entrepreneurship to 'encapsulate the journey of an entrepreneur.' [cite_start]He released it three years ago and it has close to a million views[cite: 117]."
+    },
+    {
+      "question": "What do Karia's friends say about him when he is not in the room?",
+      [cite_start]"answer": "He says one set of friends would describe him as being 'PR image management,' another would say he is 'bade bhai,' and a third set would describe him as 'purposeful, conscious, really knows what he's trying to do and is edging forward'[cite: 120, 121]."
+    },
+    {
+      "question": "What has Harshil Karia learned about life?",
+      [cite_start]"answer": "Harshil Karia says he doesn't have lessons, but rather a desire to keep improving himself[cite: 146]. [cite_start]He feels that chasing constant growth and excellence means never feeling that what he has is enough, not out of a lack of gratitude, but from the perspective that there is always more to do[cite: 146]."
+    },
+    {
+      "question": "What is Harshil Karia's philosophy on personal growth?",
+      [cite_start]"answer": "Harshil Karia's philosophy is to 'stay hungry but never be greedy'[cite: 147]. [cite_start]He believes in chasing constant growth and excellence, always striving to be better[cite: 146]. [cite_start]He feels this mindset comes from the knowledge that there is always so much more to do[cite: 146]."
+    },
+    {
+      "question": "Does Harshil Karia feel a lack of gratitude in his pursuit of constant growth?",
+      [cite_start]"answer": "No, he clarifies that his feeling of 'what I've got is enough' is not from a point of view of lack of gratitude, but from the perspective that he has so much more to do[cite: 146]."
+    },
+    {
+      "question": "What is Harshil Karia's advice on starting an agency today?",
+      [cite_start]"answer": "If he were to start Schbang all over again today, he would have started an AI-first agency, focusing on AI-based solutions for brands[cite: 355]."
+    },
+    {
+      "question": "Why does Harshil Karia think an AI-first agency is the right approach for today's market?",
+      [cite_start]"answer": "He believes that the market is moving so fast that a skill gap gets covered quickly, and an AI-first approach would allow an agency to provide quality service with agility and responsiveness[cite: 361, 375]."
+    },
+    {
+      "question": "What are some examples of AI solutions Harshil Karia would offer to clients?",
+      [cite_start]"answer": "He would build solutions that allow brands to be AI-first to market, such as tools for creative optimization, visual design, and capturing institutional knowledge like brand guidelines and performance data[cite: 370, 373, 374, 375]. [cite_start]He would also use AI to screen applicants faster during recruitment[cite: 375, 376]."
+    },
+    {
+      "question": "What are the red flags in a client?",
+      [cite_start]"answer": "Red flags include when marketing is not a priority for the company, there is no real budget for it, it's not tied to their business strategy, the margins are too thin, or the client only wants the agency to execute their ideas without any creative input[cite: 622, 1085]."
+    },
+    {
+      "question": "What is the kind of client that an agency should not go with?",
+      [cite_start]"answer": "An agency should not partner with clients where marketing is not a priority, where there is no real budget, or if the client wants the agency to only execute their ideas[cite: 622, 1085]."
+    },
+    {
+      "question": "What campaign is Harshil Karia most proud of this year?",
+      [cite_start]"answer": "He is very proud of the Britannia Croissant campaign, which won awards at the Goa Fest and Curious, and led to a 'serious uptake in consumption' and awareness[cite: 627, 628, 629, 631, 994, 996]."
+    },
+    {
+      "question": "How does Harshil Karia believe agencies can retain and grow talent?",
+      [cite_start]"answer": "He believes the best workplaces are those where merit wins, meaning people who perform best see the most growth[cite: 644, 645]. [cite_start]He also believes in equipping employees with the right tools and systems, and having a clear measurement process for their performance[cite: 648, 649, 650, 651]."
+    },
+    {
+      "question": "What is Karia's perspective on the Gen Z mindset?",
+      [cite_start]"answer": "He does not believe there is a significant difference in the working style between millennials and Gen Z. He thinks the changes in their behavior are due to the 'time that has changed, not the fundamental people'[cite: 664, 675, 677]."
+    },
+    {
+      "question": "How does Harshil Karia balance working with a family member?",
+      [cite_start]"answer": "Working with a family member can be tricky, and he admits there are times he has to maintain decorum with his younger brother, Sohil[cite: 679, 680, 682, 785]. [cite_start]However, the advantage is the implicit trust and safety that comes from serving the same goal[cite: 684]."
+    },
+    {
+      "question": "How did Harshil Karia handle the departure of his co-founder, Akshai Gunani, from Schbang?",
+      [cite_start]"answer": "He says that emotionally, it didn't impact him as much because he had been through a similar experience before[cite: 688]. [cite_start]He saw himself as the captain driving the ship and respected the professional contributions Akshai made over the years[cite: 685, 689, 692]."
+    },
+    {
+      "question": "What was the Poonam Pandey campaign, and how did Harshil Karia deal with the crisis?",
+      [cite_start]"answer": "The Poonam Pandey campaign was a public relations crisis where Schbang orchestrated a 'fake death' to raise awareness for cervical cancer[cite: 712]. [cite_start]Karia handled the crisis by fortifying his stakeholders: he met with his entire workforce to take responsibility for the mistake and personally messaged over 600 clients to be transparent about what had happened[cite: 721, 722]. [cite_start]He also launched an internal investigation to ensure it wouldn't happen again[cite: 727, 728]."
+    },
+    {
+      "question": "What was the 'damning article' on LinkedIn that affected Schbang during the Poonam Pandey controversy?",
+      "answer": "Mahesh Morti wrote a LinkedIn article that falsely accused Schbang of doing the campaign for a client, which was factually incorrect. [cite_start]Karia says he called Morti to ask him to pull it down, but Morti was more interested in being 'relevant' than being a champion of the industry[cite: 738, 742, 748]."
+    },
+    {
+      "question": "How did Harshil Karia deal with the Poonam Pandey controversy on a personal level?",
+      "answer": "He says he dealt with it personally by focusing on the things he could control, such as adding more value to customers and improving processes at the workplace. [cite_start]He was not as emotionally affected because he believes that work is not family and that he is in service of the company's vision[cite: 702, 765, 767]."
+    },
+    {
+      "question": "Why do so many people say that Schbang has a toxic work culture?",
+      "answer": "Karia acknowledges that he has heard this. [cite_start]He attributes it to the company's rapid growth during COVID, from 300 to over 1000 people, without having the systems in place to manage the workforce[cite: 797, 799]. [cite_start]This led to a difficult business environment, tough calls, and a perception that the workplace was not ideal for some employees[cite: 806, 807]."
+    },
+    {
+      "question": "What is Harshil Karia's vision for the future of Schbang?",
+      [cite_start]"answer": "His vision is for Schbang to be a 'truly global force to reckon with' and the 'largest independently owned agency in India by a mile'[cite: 812]. [cite_start]He also wishes for people to build great careers there and for the company to serve all market segments with high-quality work[cite: 813, 814]."
+    },
+    {
+      "question": "What does Karia look for when hiring a new employee?",
+      [cite_start]"answer": "At the entry level, he looks for 'learnability, adaptability and the hunger for growth' and a 'passionate can do attitude'[cite: 546, 547]. [cite_start]At mid and higher levels, he looks for specific skills and a strong network in a particular domain[cite: 549, 550, 553, 555]."
+    },
+    {
+      "question": "Who is the kind of person that should not join the agency world?",
+      [cite_start]"answer": "He believes that a deeply technical person who wants to solve a scientific problem, like Angad Darani, should not join the agency world, as an agency's purpose is to solve problems through communication and branding[cite: 562, 564, 565]."
+    },
+    {
+      "question": "How did Harshil Karia get the idea for Level Supermind?",
+      "answer": "He followed the playbook of how he would build a brand. [cite_start]He made it a content-led brand, focused on being consumer-centric, and ensured a high rating on app stores[cite: 582, 586, 588]."
+    },
+    {
+      "question": "What is the biggest budget Harshil Karia has worked on?",
+      [cite_start]"answer": "The biggest production budget he has worked on for a single campaign is around 5 crores, and the largest annual media spend for a brand was in the range of 25 to 30 crores[cite: 605, 607]."
+    },
+    {
+      "question": "What is Karia's perspective on the 'burn and grow' business model?",
+      "answer": "He is a 'slightly more conservative player' and is not for the 'burn and grow model', which he doesn't believe has worked for India. [cite_start]He believes in building a business with working unit economics rather than throwing money at a problem[cite: 520, 521, 534]."
+    },
+    {
+      "question": "How does Harshil Karia balance his analytical and creative sides?",
+      "answer": "He admits he hasn't been able to balance them perfectly, and his career has gone through phases of being extremely analytical or extremely focused on creative work. [cite_start]He is currently trying to bring a balance between the two[cite: 485, 486]."
+    },
+    {
+      "question": "What is Harshil Karia's personal philosophy on living?",
+      [cite_start]"answer": "He believes in living an authentic life and using his life for 'seva' (service)[cite: 1157, 1158]. [cite_start]He has gone through phases of wearing tailored shirts and custom pants but has since adopted a more minimal approach to life[cite: 199, 1157]."
+    },
+    {
+      "question": "How does Karia's spirituality impact his business?",
+      [cite_start]"answer": "He believes being spiritually inclined helps him build his business with a 'larger purpose' and a focus on serving the maximum number of people[cite: 200]."
+    },
+    {
+      "question": "What is Harshil Karia's advice on dealing with 'hate' and criticism as an agency founder?",
+      "answer": "Harshil Karia advises that if you see consistent hate or negativity, you should first question yourself to investigate the 'why' behind it, whether it's a policy or something you may have said. He views it as a call to improve yourself, stating, 'if you're an agency founder... you get better at dealing with it.'"
+    },
+    {
+      "question": "How does Harshil Karia's personal business philosophy differ from what he's been asked about prioritizing a team over clients?",
+      [cite_start]"answer": "Harshil Karia's first principle is 'clients business wins we win'[cite: 282]. [cite_start]He fundamentally believes that his team will win if his clients' businesses win, emphasizing that their success is closely linked[cite: 288]."
+    },
+    {
+      "question": "According to Harshil Karia, what is the fundamental reason clients hire an agency?",
+      [cite_start]"answer": "Clients hire agencies because they believe that a group of humans working under one roof with a strong culture, skills, and excellence can deliver something better than they can internally[cite: 285]. They are willing to pay a margin for this excellence."
+    },
+    {
+      "question": "How can an agency get a better brief from a client?",
+      [cite_start]"answer": "Harshil Karia suggests an agency can get a better brief by being proactive and putting in the effort to understand the client's business, product placement, and consumer behavior[cite: 286]. This helps avoid repeated changes to artworks, which he identifies as a source of frustration."
+    },
+    {
+      "question": "When did Harshil Karia start saying 'no' to business?",
+      [cite_start]"answer": "Initially, Karia said 'yes to everything' and didn't say no to business for five to seven years[cite: 308]. [cite_start]He worked on small projects like brochure and website printing for small companies[cite: 307]. [cite_start]Now, he says no because he knows he won't be able to 'give my best' to those projects[cite: 308]."
+    },
+    {
+      "question": "How did Harshil Karia get his first big client?",
+      [cite_start]"answer": "After working hard on small projects for a year and a half, people started giving him a chance[cite: 299]. [cite_start]His first big break came with Maybelline New York, where he delivered a successful Facebook app campaign that performed six times better than the incumbent agency's[cite: 301]."
+    },
+    {
+      "question": "What did the Maybelline New York campaign entail?",
+      "answer": "The campaign was for the launch of Maybelline Color Sensational lipstick. [cite_start]It involved a Facebook app where users could select a lip shade and send a kiss with a message to someone[cite: 301]."
+    },
+    {
+      "question": "How did Harshil Karia use his first successful campaign to acquire other clients?",
+      [cite_start]"answer": "After the Maybelline success, his three-month contract was extended to a year[cite: 301]. [cite_start]This led to a call from Garnier to launch Garnier men, and his reputation for working with large brands grew from there[cite: 302, 307]."
+    },
+    {
+      "question": "How does Harshil Karia approach client acquisition in a new market like the UK?",
+      [cite_start]"answer": "Harshil Karia admits he is still struggling with outbound marketing in the UK, as people haven't been receptive to his outreach[cite: 317]. He acknowledges that he is not very good at this and has primarily relied on brand-building and inbound leads."
+    },
+    {
+      "question": "What advice does Harshil Karia have for young agency founders on how to get in touch with potential clients?",
+      [cite_start]"answer": "He advises reaching out to an 'ambitious younger person' in a client's team who has a point to prove[cite: 318, 319]. He suggests partnering with them on a project that can help both of you make a mark, citing his own experience with Maybelline."
+    },
+    {
+      "question": "How does Harshil Karia deal with the issue of team members working with former clients?",
+      [cite_start]"answer": "In client contracts, Schbang includes a non-solicitation clause, which states that a team member who worked on the client's account cannot be hired by the client for a period of two years[cite: 322]. He believes that clients who break their word get a bad reputation in the market."
+    },
+    {
+      "question": "What is the best way to recognize good talent in your team?",
+      [cite_start]"answer": "Harshil Karia believes good talent can be recognized by four traits: they don't complain too much, they are great at working with other people, they are very specific about their skills and know how to navigate details quickly, and they are generally likable people who others want to be around[cite: 332, 333, 334, 335]."
+    },
+    {
+      "question": "What does a good handover document look like?",
+      [cite_start]"answer": "Harshil Karia suggests a Handover document should be linked to in the podcast for a better explanation[cite: 336]."
+    },
+    {
+      "question": "How do you prevent over-delivering to clients?",
+      [cite_start]"answer": "The best way to prevent over-delivering is to 'ring fence it at the start' by defining a clear scope of work in the contract[cite: 339]. [cite_start]The scope should detail the number of people assigned, the amount of time they will spend, and the exact deliverables[cite: 338, 339]. [cite_start]This allows you to measure your work and communicate when you are going 'extra out of your way'[cite: 340]."
+    },
+    {
+      "question": "What is the key difference between working with startups, SMEs, and MNCs?",
+      [cite_start]"answer": "Karia believes it is difficult to serve all three client types with a single framework and that agencies should specialize[cite: 348]. For startups, Schbang often focuses on brand building and brand development. For SMEs, they provide consulting and marketing strategy. [cite_start]For large enterprises, they typically handle digital marketing, advertising, and CRM solutions[cite: 349, 350]."
+    },
+    {
+      "question": "Which team does Harshil Karia spend the most time with?",
+      [cite_start]"answer": "He says he is personally a 'planner' and enjoys working with the creative and design teams the most because they are focused on elevating the quality of the message[cite: 357]."
+    },
+    {
+      "question": "How does Schbang charge a national-level client?",
+      "answer": "It depends on the project. [cite_start]For a new client, Karia advises taking a three-month project where the fee is based on the cost of the people assigned plus an overhead fee or margin[cite: 360, 361]. [cite_start]If the client invites an agency for a retainer pitch, they'll obviously put a retainer[cite: 361]."
+    },
+    {
+      "question": "How do you calculate deliverables versus commercials when pitching to a client?",
+      "answer": "When pitching, you first get a sense of the client's budget. [cite_start]Then, you scope the project by assigning a certain level of resources (account manager, planner, creative, etc.) and calculate what your team's capacity is to deliver within that budget[cite: 364, 365]."
+    },
+    {
+      "question": "How do you deal with variable profit margins as an agency scales?",
+      [cite_start]"answer": "Karia states that as an agency grows, systems and processes keep changing and salary costs will rise, which causes a dip in profit margins[cite: 367]. [cite_start]The goal is to get better at reducing variability over time by either increasing pricing to reflect better talent or bringing in more efficiencies to reduce costs[cite: 369]."
+    },
+    {
+      "question": "How do you deal with the problem of a high-churn workforce and 'job-hopping' employees?",
+      [cite_start]"answer": "Karia states that this is something you cannot control[cite: 373]. [cite_start]What you can control is having a solid Human Resources person and a strong HR team that can 'insulate against all this'[cite: 373]. [cite_start]He also says you can make it very difficult for people to get into the company by having a very difficult entrance test[cite: 375]."
+    },
+    {
+      "question": "What is the highest-paying service in the digital marketing industry?",
+      [cite_start]"answer": "Harshil Karia believes there is no single highest-paying service because any service with a much better margin would eventually be offered by everyone and normalize[cite: 378]. [cite_start]The highest paying service depends on the client's business, whether it's an e-commerce business needing Performance Marketing or an awareness brand needing creative services[cite: 377]."
+    },
+    {
+      "question": "How can an agency identify its core competency and capitalize on it?",
+      [cite_start]"answer": "He says that when starting, the core competency often hinges on the founder's skills, whether it's tech or creative campaigns[cite: 381]. [cite_start]As the agency grows, the market and clients will 'ratify it for you' by showing you what you are best at, and then you should double down on that[cite: 383]."
+    },
+    {
+      "question": "What are Harshil Karia's thoughts on starting a project before a contract is signed?",
+      [cite_start]"answer": "He thinks it's a 'bad idea'[cite: 384]. [cite_start]He advises that if a contract is going to take time, the client should at least provide a purchase order, which is a confirmation that they are making a purchase and will pay you[cite: 385, 386]."
+    },
+    {
+      "question": "What would Harshil Karia do if he was starting an agency in a Tier 2 town today?",
+      [cite_start]"answer": "He would focus on being a marketing strategy partner for unorganized businesses that are becoming organized[cite: 391, 392]. [cite_start]He would help them define their brand and frame their marketing and media plan, as he believes the skills needed in these markets are different from an organized market like Mumbai[cite: 391, 393]."
+    },
+    {
+      "question": "How does Harshil Karia define work-life balance?",
+      "answer": "He is recording the podcast on a Saturday, so he states that for him, it's not a work-life balance but a work-life integration. [cite_start]He feels that the things he does for work lead him to explore life[cite: 394]. [cite_start]He also says you have to stretch yourself at every point and work on yourself by maintaining a healthy lifestyle, diet, and mindset[cite: 395, 396]."
+    },
+    {
+      "question": "What are Harshil Karia's hacks to recognize and prevent burnout?",
+      [cite_start]"answer": "He recognizes burnout when he feels more irritable, angry, and extremely tired[cite: 397]. [cite_start]His hacks to prevent it include getting a good amount of sleep, journaling every morning, a daily meditation practice, and going to therapy at least twice a month[cite: 397, 398]."
+    },
+    {
+      "question": "Is there an alternative to having a service agreement with a client?",
+      [cite_start]"answer": "No, he states there is no alternative to a service agreement[cite: 403]. A service agreement should include the cost, scope, deliverables, exit clause, indemnities, and a non-solicitation clause for the team."
+    },
+    {
+      "question": "How should an agency charge a client for performance marketing?",
+      [cite_start]"answer": "He says media is typically charged on a percentage basis, but for small clients with low ad spend (e.g., 1-2 lakh rupees), the time cost may be more than the commission earned[cite: 404, 405]. In such cases, he advises charging a fixed fee. [cite_start]For larger clients, you can use a fixed fee plus a variable fee based on meeting return on ad spend (ROAS) targets[cite: 406, 407]."
+    },
+    {
+      "question": "How should a new agency start in today's competitive environment?",
+      [cite_start]"answer": "Harshil Karia advises two things: 1) Become a specialist in a niche category where a lot of money is flowing, by observing funding patterns on platforms like AngelList[cite: 412, 413]. [cite_start]2) Be 'significantly better than the others' and convince clients that your work is a 'growth driving investment' for their brand, not a price-cutting one[cite: 414]."
+    },
+    {
+      "question": "How can an agency with no portfolio pitch to a client?",
+      [cite_start]"answer": "He suggests creating 'proactive work' by partnering with high-quality influencers to create visible campaigns[cite: 420, 421]. [cite_start]This work can then serve as a portfolio, as clients would have already seen it and seen its success[cite: 421]."
+    },
+    {
+      "question": "What has Harshil Karia learned about life?",
+      [cite_start]"answer": "Harshil Karia says he doesn't have lessons, but rather a desire to keep improving himself. He believes that chasing constant growth and excellence means never feeling that what he has is enough, not out of a lack of gratitude, but from the perspective that there is always more to do[cite: 513, 514]."
+    },
+    {
+      "question": "What is Harshil Karia's philosophy on personal growth?",
+      [cite_start]"answer": "Harshil Karia's philosophy is to 'stay hungry but never be greedy'[cite: 514]. He believes in chasing constant growth and excellence and always striving to be better. [cite_start]He feels this mindset comes from the knowledge that there is always so much more to do[cite: 513, 514]."
+    },
+    {
+      "question": "Does Harshil Karia feel a lack of gratitude in his pursuit of constant growth?",
+      [cite_start]"answer": "No, he clarifies that his feeling of 'what I've got is enough' is not from a point of view of lack of gratitude, but from the perspective that he has so much more to do[cite: 514]."
+    },
+    {
+      "question": "What kind of bad habit did Harshil Karia have in the past?",
+      [cite_start]"answer": "Harshil Karia had a habit of smoking hash[cite: 443, 479]."
+    },
+    {
+      "question": "What led Harshil Karia to quit smoking hash?",
+      [cite_start]"answer": "Somebody told him, 'you're trying to get high because you're not high enough on life,' and that thought 'hit the nail on the head' for him[cite: 443, 517]."
+    },
+    {
+      "question": "What were some of the effects of Karia quitting smoking and alcohol?",
+      [cite_start]"answer": "He says it made a big difference to his memory, cognition, the speed at which he works, and the clarity with which he thinks[cite: 443, 518]."
+    },
+    {
+      "question": "What was the name of Harshil Karia's first company?",
+      [cite_start]"answer": "His first company was called FoxyMoron[cite: 446]."
+    },
+    {
+      "question": "What was the intention behind FoxyMoron?",
+      [cite_start]"answer": "The intention was to do social media marketing for brands[cite: 454]."
+    },
+    {
+      "question": "What was one of India's first social media based companies?",
+      [cite_start]"answer": "FoxyMoron was one of India's first social media-based companies[cite: 446]."
+    },
+    {
+      "question": "How did Harshil Karia start FoxyMoron?",
+      [cite_start]"answer": "He started FoxyMoron with three friends after college because his starting salary at the time was only about 15,000 to 16,000 rupees, making his opportunity cost for taking a risk very low[cite: 453, 454]."
+    },
+    {
+      "question": "What was the biggest challenge for FoxyMoron in its early days?",
+      "answer": "The biggest challenge was that the market was unknown. [cite_start]They had to go to companies and give a 100-slide presentation to educate them on what social media marketing was[cite: 456]."
+    },
+    {
+      "question": "What was the turning point for FoxyMoron's growth?",
+      "answer": "The turning point was when they secured contracts with Cadbury and Maybelline New York, which were working with large legacy agencies. [cite_start]Their work for Maybelline delivered 6X the output of the previous agency, leading to an annual contract and a strong reputation[cite: 457, 458, 459, 460]."
+    },
+    {
+      "question": "Who were some of the other early agencies in the social media space in India?",
+      [cite_start]"answer": "Other early players included Rajiv Dingra's What Consult, Sanjay Mehta and Harish Terala's Mirum and Social Wavelength, and Rupak Saluja's Jack in the Box[cite: 461, 462]."
+    },
+    {
+      "question": "Why did Harshil Karia leave FoxyMoron?",
+      [cite_start]"answer": "Harshil Karia resigned because he was not aligned with his partners on their vision and values for the future[cite: 469, 470, 474, 476]."
+    },
+    {
+      "question": "How did the acquisition offer for FoxyMoron affect Karia's decision to leave?",
+      "answer": "The acquisition offer, which included a long earn-out period, solidified his decision to leave. [cite_start]He realized he was not aligned with his partners' vision and resigned the next day after the offer came in, choosing not to be locked into the company[cite: 470, 471, 473, 474]."
+    },
+    {
+      "question": "What was the meaning behind the name 'Schbang'?",
+      "answer": "The name 'Schbang' is a play on the Unix language term 'shebang' (#!) which means 'read what follows in its entirety'. [cite_start]The agency's name, spelled 'S B N G', was chosen to represent this idea of completeness and full service[cite: 465, 466]."
+    },
+    {
+      "question": "What was the initial financial situation when Schbang started?",
+      [cite_start]"answer": "Schbang started with a 10,000 sq. ft. office and 40 people, but no customers[cite: 483]. [cite_start]Karia invested his own savings and the company 'bled money' for the first year and a half, as per the business plan[cite: 484, 485]."
+    },
+    {
+      "question": "How did Karia deal with the initial financial struggles of Schbang?",
+      "answer": "During the first year and a half, he tried to find a buyer for the business, negotiating with a 'legend' in the industry. [cite_start]He spent 3 lakh rupees on a law firm for the negotiation, which he considers the 'best 3 lakh rupees I spent in my life' because he learned so much from observing how a legendary figure thinks[cite: 486, 487]."
+    },
+    {
+      "question": "How old was Harshil Karia during the most difficult phase of starting Schbang?",
+      [cite_start]"answer": "He was between the ages of 27 and 30 during this difficult phase[cite: 490]."
+    },
+    {
+      "question": "What drives Harshil Karia's ambition to grow his business?",
+      [cite_start]"answer": "He is not chasing a billionaire tag for the sake of money, but to have enough money to be able to 'influence a lot of the things that I think should be right with the world'[cite: 491]."
+    },
+    {
+      "question": "What are the core principles that define Schbang's values?",
+      [cite_start]"answer": "The principles are: 'client business wins if we win,' 'our word is our bond,' and 'create work that people aspire to'[cite: 492, 493]."
+    },
+    {
+      "question": "How does Harshil Karia believe businesses should expand internationally?",
+      [cite_start]"answer": "He believes the first step is to groom, identify, and hire great leaders who can be sent out to the world[cite: 496]. [cite_start]He also emphasizes the importance of going to a new market and observing customer pain points and understanding what clients want[cite: 498]."
+    },
+    {
+      "question": "What were Karia's learnings from meeting with European entrepreneurs in Sweden?",
+      [cite_start]"answer": "He was surprised to see a culture of collaboration among entrepreneurs, who helped each other grow[cite: 502]. [cite_start]He also observed that Europeans are 'high on technology' but lack the service-oriented focus and talent pool that India possesses, which gives India a competitive edge[cite: 502, 503]."
+    },
+    {
+      "question": "How did Harshil Karia's journey of self-improvement begin?",
+      "answer": "It began after he cut his salary to 20,000 rupees a month, which forced him to be more conscious about what he did with his money and time. [cite_start]This led him to go 'inside' and discover a desire to read, learn, and question his life's direction[cite: 509, 510, 512]."
+    },
+    {
+      "question": "What does meditation do for Harshil Karia on a personal level?",
+      [cite_start]"answer": "He says that meditation brings him back to his purpose, allowing him to 'peel off the layers' and reconnect with his core mission[cite: 520]."
+    },
+    {
+      "question": "What is Harshil Karia's purpose right now?",
+      [cite_start]"answer": "His current purpose is 'India to the world,' which is the idea of taking talented Indian creative and tech professionals from Schbang and building a global company, while also bringing the best of the world back to India[cite: 520, 521]."
+    },
+    {
+      "question": "What are Karia's 'five learnings of life'?",
+      [cite_start]"answer": "His five learnings are: 1) self-improvement and striving for constant growth [cite: 513][cite_start], 2) being mindful of what you 'put in' to your body and mind [cite: 514][cite_start], 3) having a strong sense of purpose [cite: 520][cite_start], 4) having an 'ally' or passion beyond work, like music, that keeps you fulfilled [cite: 522][cite_start], and 5) learning to respect people by seeing the 'beauty' in them and getting the best out of them[cite: 524]."
+    },
+    {
+      "question": "What is Karia's final message to the youth?",
+      [cite_start]"answer": "He tells them to 'strive for greatness'[cite: 532]."
+    },
+    {
+      "question": "What are the four key skills Harshil Karia looks for when hiring a candidate in the digital marketing space in 2024?",
+      [cite_start]"answer": "Harshil Karia looks for four key skills: 1) Creativity, which involves writing good copy and communicating a message well[cite: 5]. [cite_start]2) Clarity, or the ability to arrive at a distilled solution for a strategic problem[cite: 6]. [cite_start]3) A deep understanding of the consumer of the client[cite: 6]. [cite_start]4) The ability to converge new technologies like AI and marketing automation[cite: 7]."
+    },
+    {
+      "question": "What does Harshil Karia think is the future of digital marketing?",
+      [cite_start]"answer": "The future of digital marketing is moving towards more personalized and 'tailor-made experiences' for each consumer[cite: 10]. [cite_start]Brands will need to be consistent, clear, and reliable across all communication touchpoints while simultaneously being hyper-personal to each individual[cite: 9, 10]."
+    },
+    {
+      "question": "How does Harshil Karia describe Apple's marketing strategy?",
+      [cite_start]"answer": "Harshil Karia says that Apple's marketing is not about creating a single, transformational ad, but about being 'very, very tight across every communication touch point'[cite: 8]. [cite_start]Their consistency and clarity across platforms like emailers, banner ads, and airport placements make them a predictable and reliable brand that consumers aspire to buy[cite: 9]."
+    },
+    {
+      "question": "What is Harshil Karia's advice on using AI in digital marketing?",
+      [cite_start]"answer": "Harshil Karia believes that if you don't use AI, it can 'destroy your career in digital marketing'[cite: 14]. [cite_start]He advises using AI for tasks such as synthesizing complex data, building real-time analytics dashboards, and creating red flag systems for budget management[cite: 14, 15]."
+    },
+    {
+      "question": "What is Harshil Karia's advice to young people considering freelancing?",
+      "answer": "He advises young people to consider their temperament and what they want to optimize for in their career. [cite_start]The agency ecosystem offers a framework for accelerated growth and consistency, with a clear path for earning[cite: 17]. [cite_start]Freelancing can also build a strong career with a good set of clients, but requires personal discipline and systems to be successful[cite: 18]."
+    },
+    {
+      "question": "What is one of the most ignored streams of digital marketing that has great career growth?",
+      [cite_start]"answer": "Harshil Karia believes that a great, ignored stream of digital marketing is tech deployment[cite: 21]. [cite_start]This includes skills in marketing automation, CDP deployment, and prompt engineering, which are crucial for powering personalized experiences[cite: 22, 23]."
+    },
+    {
+      "question": "What qualities does Harshil Karia look for in a candidate to grow them faster within Schbang?",
+      [cite_start]"answer": "To grow faster within Schbang, a candidate should demonstrate: 1) The ability to consistently meet KPIs[cite: 25]. [cite_start]2) High client satisfaction and net promoter scores[cite: 26]. [cite_start]3) Innovation in new technology that impacts KPIs[cite: 26]. [cite_start]4) Positive peer and manager reviews[cite: 26]. [cite_start]5) The ability to hit business targets[cite: 27]."
+    },
+    {
+      "question": "What is the average tenure of a Schbang employee, and what does the company do to overcome attrition?",
+      [cite_start]"answer": "The average tenure of a Schbang employee is 1.3 years[cite: 84]. [cite_start]To overcome attrition, the company uses an AI called Inedo to track employee mood and identify 'people to meet'[cite: 86, 87]. [cite_start]It also conducts manager satisfaction surveys to help managers improve and prioritizes retaining employees with strong KPIs and positive mood scores[cite: 88, 89]."
+    },
+    {
+      "question": "What does a Schbang digital marketing pitch typically look like?",
+      [cite_start]"answer": "A typical Schbang pitch follows the ABC framework: Audience, Brand, and Category[cite: 64]. [cite_start]They conduct extensive research on each, including consumer interviews, focus groups, and AI-powered analysis of social conversations and e-commerce reviews, to deeply understand the client's problem before presenting a solution[cite: 65, 68]."
+    },
+    {
+      "question": "How did Schbang get its first big digital marketing client, and what is its philosophy on client acquisition?",
+      [cite_start]"answer": "Schbang's philosophy is that 'no single client should be that big to dictate The Fortunes of the agency'[cite: 69]. [cite_start]Their first clients were legacy brands, Finolex and Godrej Industries, which provided a 'strong trust' signal to the market that they were a credible agency to work with[cite: 69, 70]."
+    },
+    {
+      "question": "What is the mission behind Schbang's international expansion?",
+      "answer": "The mission is to establish the first major Indian player in the global creative services market, with India as its headquarters. [cite_start]The goal is to take 'the best of Indian creativity, skill and talent and Ingenuity' to clients all over the world and bring the best of the world's creative talent back to India[cite: 75]."
+    },
+    {
+      "question": "What is Schbang's strategy for tying up with influencers through the Schbang Maximise initiative?",
+      [cite_start]"answer": "Schbang Maximise focuses on two specific niches: luxury and super premium, represented by influencers like Masoom Minawala and Anaita Shroff Adajania, and a mass Indian creators segment[cite: 80, 81]. [cite_start]They also represent talent that can 'straddle' between these two segments[cite: 82]."
+    },
+    {
+      "question": "What was Schbang's revenue last year, and what is its projection for this year?",
+      [cite_start]"answer": "Last year, Schbang's revenue was 'give or take 200 crores'[cite: 102]. [cite_start]The projection for this year is 250 crores[cite: 102]."
+    },
+    {
+      "question": "What is the biggest mistake Harshil Karia has made as a leader?",
+      [cite_start]"answer": "He believes his biggest mistake was 'indexing for too much unrealistic growth' and not having the systems to manage that growth, which led to over-hiring and a period where the company 'imploded in terms of systems'[cite: 107, 108]."
+    },
+    {
+      "question": "What is the best advice Harshil Karia has ever heard?",
+      [cite_start]"answer": "The best advice he ever heard is that 'the answer to all problems in any business is growth'[cite: 109]."
+    },
+    {
+      "question": "What three books does Harshil Karia recommend to someone?",
+      [cite_start]"answer": "He recommends 'The Hard Thing About Hard Things' for building a business, 'The Mom Test' for understanding consumers, and studying the 'Bhagwat Gita' to understand life[cite: 113, 114]."
+    },
+    {
+      "question": "How did Harshil Karia's move towards minimalism and a purpose-driven life start?",
+      "answer": "A shift started when he had a 'big fat salary' at FoxyMoron and then took a pay cut to 20,000 rupees to start Schbang. This lifestyle change was an accelerator for him to let go of attachments and dependencies, which was a core philosophical shift."
+    },
+    {
+      "question": "What did Karia do to reduce his attachments and dependencies?",
+      "answer": "He let go of dependencies on others, such as having a driver, and instead started biking everywhere. This led him to be more mindful of what he ate to reduce sweating and to pare down his wardrobe to only four pairs of clothes for travel."
+    },
+    {
+      "question": "What is Karia's perspective on material possessions?",
+      "answer": "He still enjoys and appreciates things that are beautiful, like a great painting or a well-designed space. However, he says the 'desire to own' such things is 'significantly lesser' than the desire to simply enjoy them in the moment."
+    },
+    {
+      "question": "What does Karia believe is a key aspect of living a transient life?",
+      "answer": "He believes the key is to 'enjoy the most of these experiences' while living a transient life, focusing on enjoying things in the moment rather than having a desire for ownership."
+    },
+    {
+      "question": "What is Karia's approach to his personal journey and future plans?",
+      "answer": "He acknowledges that while you make plans, 'life has other plans'. He feels he is in a good place in his journey right now and hopes to accelerate his progress, but he is also open to new paths that may appear."
+    },
+    {
+      "question": "What is the agency's approach to marketing?",
+      [cite_start]"answer": "The agency is always on the lookout for the next moment to market. [cite: 451]"
+    },
+    {
+      "question": "What is the agency's stance on workload and delivery?",
+      [cite_start]"answer": "The agency states that they never have the bandwidth, but they always over-deliver. [cite: 451]"
+    },
+    {
+      "question": "How does the agency view AI?",
+      [cite_start]"answer": "They believe that no one can optimize AI the way they do. [cite: 451]"
+    },
+    {
+      "question": "What is a signature phrase used by the agency?",
+      [cite_start]"answer": "The agency says 'copy not copies'. [cite: 451]"
+    },
+    {
+      "question": "What metrics are always on the agency's mind?",
+      [cite_start]"answer": "The agency always thinks about growth rate, engagement rate, and bounce rate. [cite: 451]"
+    },
+    {
+      "question": "What is the agency's philosophy on consumer vs. customer?",
+      [cite_start]"answer": "The agency understands the difference between a consumer and a customer. [cite: 451]"
+    },
+    {
+      "question": "What is the agency's role in the world of memes?",
+      [cite_start]"answer": "They love making memes. [cite: 451]"
+    },
+    {
+      "question": "What is Harshil Karia's advice on starting an agency today?",
+      "answer": "If he were to start Schbang all over again today, he would have started an AI-first agency. He would pitch AI-driven solutions to brands to help them with things like creative optimization and capturing institutional knowledge."
+    },
+    {
+      "question": "How does Harshil Karia use AI in a client's creative process?",
+      "answer": "He explains that AI can be used to tag ads on various parameters and determine which ones are most effective at driving engagement or click-through rates. He also believes AI can be used to create an AI brain that can visually design in a client's specific style."
+    },
+    {
+      "question": "What is the key idea behind Sam Altman's advice about building on top of OpenAI?",
+      "answer": "The advice is to build a 'hyper niche' use case that has enough of a market to be valuable but is not so lucrative that OpenAI would cannibalize it. This allows a business to leverage OpenAI's API tokens without the risk of being made redundant by a new feature."
+    },
+    {
+      "question": "What is the kind of client that an agency should not go with?",
+      "answer": "An agency should not work with a client for whom marketing is not a priority, if they have a wafer-thin margin, if marketing is not a strategic goal, or if they only want the agency to execute their own ideas."
+    },
+    {
+      "question": "What is a 'red flag' in a client, according to Harshil Karia?",
+      "answer": "Red flags include: marketing not being a priority, a lack of budget for marketing, marketing not being a strategic goal, wafer-thin margins, and the client only wanting the agency to execute their own ideas."
+    },
+    {
+      "question": "How did Harshil Karia handle a situation where an ad campaign went wrong?",
+      "answer": "In one instance, a startup's campaign performance was so poor that Karia's agency had to return the money. He notes that this was during the startup's 'burn phase' where they were spending large sums of money on a vision they had sold to investors."
+    },
+    {
+      "question": "Which campaign is Harshil Karia most proud of this year?",
+      "answer": "He is very proud of two campaigns this year: the Britannia Croissant campaign and one for the Robin Hood Army. He notes that the Britannia campaign led to a 'serious uptake in consumption' and won awards."
+    },
+    {
+      "question": "How does Harshil Karia believe agencies can retain and grow talent?",
+      "answer": "Karia believes that to retain and grow talent, agencies must ensure that employees see commercial growth, feel respected and fairly treated, and are inspired and motivated with bigger challenges. The best workplaces are those where merit wins, and performance leads to growth."
+    },
+    {
+      "question": "Are employees at Schbang replaceable?",
+      "answer": "Karia states that some employees are irreplaceable, but an agency can build a system that is resilient enough if they leave. He adds that many employees are replaceable based on a combination of their skill, personality, attitude, and the 'heart that they bring'."
+    },
+    {
+      "question": "What is Harshil Karia's perspective on the Gen Z mindset?",
+      "answer": "He does not agree with the idea that Gen Z is fundamentally different from previous generations. He believes the time has changed, not the people. Gen Z has a lot more opinions due to their exposure to content, but he says they are just like the previous generation, only consuming different things."
+    },
+    {
+      "question": "How does Harshil Karia balance working with a family member?",
+      "answer": "He says it can be tricky, especially with brothers, as you have to maintain the 'decorum of the relationship' and can't always be as direct. However, the strength of working with family is an implicit safety and the shared desire to serve the same goal."
+    },
+    {
+      "question": "How did Harshil Karia handle the departure of his co-founder, Akshai Gunani, from Schbang?",
+      "answer": "He says that emotionally, it didn't impact him much, as his focus is on the vision of the company, not on personal attachments at work. Professionally, he had respect for Akshai's contributions but continued with his responsibility as the captain of the ship."
+    },
+    {
+      "question": "What was the Poonam Pandey campaign, and how did Harshil Karia deal with the crisis?",
+      "answer": "The Poonam Pandey campaign was a public relations crisis where Schbang orchestrated a 'fake death' announcement to raise awareness for cervical cancer. Karia acknowledged it was not in good taste and implemented a strategy to fortify his stakeholders. He had a meeting with his entire workforce to acknowledge the mistake and personally messaged over 600 clients to take responsibility and reassure them that work would continue. He also launched an internal investigation to prevent future incidents."
+    },
+    {
+      "question": "What was the 'damning article' on LinkedIn that affected Schbang during the Poonam Pandey controversy?",
+      "answer": "A gentleman named Mahesh Morti, a pioneer in the digital marketing space, wrote a damning article on LinkedIn that accused Schbang of doing the campaign for a client, which was factually incorrect. This article was later picked up by the Economic Times and led to significant business loss."
+    },
+    {
+      "question": "How did Harshil Karia deal with the Poonam Pandey controversy on a personal level?",
+      "answer": "He says he dealt with it personally by focusing on the things he could control, such as adding more value to customers and improving processes at the workplace. He was not as emotionally affected because he believes that work is not family and that he is in service of the company's vision."
+    },
+    {
+      "question": "What is Harshil Karia's perspective on reckless decisions made by younger founders?",
+      "answer": "He agrees that younger founders often make reckless decisions, citing his own examples of taking bets and leaving his first agency with money on the table. He believes this is a result of age and a lack of experience, and that maturity and perspective come later."
+    },
+    {
+      "question": "How did Harshil Karia's personality change over the years?",
+      "answer": "He says his personality has shifted from being a 'triangle squiggle' in 2018 (a combination of being vision-oriented and hyper-creative) to a more 'triangle square' personality in 2025, which is more analytical, bottom-line focused, and driven by a systematic approach."
+    },
+    {
+      "question": "Why do so many people say that Schbang has a toxic work culture?",
+      "answer": "Karia acknowledges that he has heard this. He attributes it to the company's rapid growth during Covid, from 300 to over 1000 people, without having the systems in place to manage the workforce. This led to a difficult business environment, tough calls, and a perception that the workplace was not ideal for some employees."
+    },
+    {
+      "question": "What is Harshil Karia's vision for the future of Schbang?",
+      "answer": "His vision is for Schbang to become a 'truly global force to reckon with' and the 'largest independently owned agency in India by a mile'. He wishes to serve all market segments with high-quality work and for people to build great careers at the company."
+    },
+    {
+      "question": "How did Harshil Karia's move to a minimalistic lifestyle begin?",
+      "answer": "The change began when he left FoxyMoron and took a significant pay cut to start Schbang. This forced him to change his lifestyle and reduce attachments and dependencies."
+    },
+    {
+      "question": "What is Karia's approach to material possessions?",
+      "answer": "He enjoys and marvels at things like great art and design but has a significantly lesser desire to own them. His focus is on enjoying experiences in the moment rather than possessing things."
+    },
+    {
+      "question": "How did Harshil Karia become an agency founder?",
+      "answer": "After college, he became an agency founder, having completed internships at agencies like Dentsu and what became a social media agency called What Consult. He saw the intersection of advertising, tech, and social media and decided to start his first agency, FoxyMoron, in 2008."
+    },
+    {
+      "question": "What role did privilege play in Harshil Karia's decision to become an entrepreneur?",
+      "answer": "He acknowledges that he comes from a place of 'slight privilege' and did not have to 'fend for bringing the food on the table.' This gave him the confidence to take a risk and dedicate a few years to building his business on a very base salary."
+    },
+    {
+      "question": "Was Harshil Karia self-aware when he started his business?",
+      "answer": "No, he was not. He believes that self-awareness happens 'along the way' of the entrepreneurial journey."
+    },
+    {
+      "question": "How did Karia gain the confidence to start his first agency?",
+      "answer": "He gained confidence by working on pitches and proposals for large agencies. He realized that the senior people in these agencies liked his work and points, and he saw that the social media space was a new, unexplored industry where he could 'back himself'."
+    },
+    {
+      "question": "What is Harshil Karia's 'hero introduction'?",
+      "answer": "He introduces himself as Harshil Karia, founder of two advertising agencies and one mental wellness platform. He states that he is on a journey to find himself and help others do the same, instill beauty in the world through his work, and build meaningful relationships."
+    },
+    {
+      "question": "What is the 'Agency Smoothie' framework?",
+      "answer": "The 'Agency Smoothie' is a framework for success that includes six modules: Get Mindset, Get Fit, Get Known, Get Leads, Get Sales, Get Systems, and Get Teams. These components are essential for running a successful agency."
+    },
+    {
+      "question": "What is Harshil Karia's mindset as a leader?",
+      "answer": "His mindset is one of constant learning, curiosity, and sharpening his skills. He is also focused on an 'insulation mindset' to remain calm and composed amidst the challenges and 'forest fires' that can arise in an agency."
+    },
+    {
+      "question": "What does Harshil Karia do to stay physically fit?",
+      "answer": "He typically does a combination of workouts, including swimming (three times a week), gym weight training (two times a week), and cycling as his daily commute. He rides his folding bike for a total of about 25 minutes a day and also cycles to any meeting within a four-kilometer radius."
+    },
+    {
+      "question": "How does Harshil Karia get known and build his personal brand?",
+      "answer": "He says he gets known through his work, believing that if the work is good, people will ask who is behind it. He also does podcasts and tries to contribute meaningfully to the industry by running initiatives for designers and training programs for teachers."
+    },
+    {
+      "question": "How does Schbang get business leads?",
+      "answer": "Schbang focuses on doing good work and serving existing clients well, which leads to referrals. They also measure client satisfaction and Net Promoter Score every 90 days, believing that a good score will lead to clients promoting the agency."
+    },
+    {
+      "question": "What is Harshil Karia's two-part advice on getting sales?",
+      "answer": "His advice is twofold: first, 'win the pitch before the pitch' by making the client already want to work with you before they walk in. Second, always start a proposal with the CAB framework: Category, Audience, and Brand, in that specific order."
+    },
+    {
+      "question": "What are the three core operational pillars of an agency business?",
+      "answer": "According to Karia, the three pillars are Human Resources, Business Development, and Finance. These are the key operational spokes for a successful agency."
+    },
+    {
+      "question": "What is the 'CAB' framework for a sales pitch?",
+      "answer": "The CAB framework stands for Category, Audience, and Brand. Karia advises starting a pitch by demonstrating a deep understanding of the category, then the audience, and finally how the brand can fit into that context. He believes this approach builds trust and gives the client confidence."
+    },
+    {
+      "question": "How does Schbang manage its teams and culture?",
+      "answer": "Karia admits that building a good team is a challenge, giving himself a score of 3 out of 7. He is focused on making sure that leaders in the company like each other and on building a great tracking system that measures mood scores, net promoter scores, and other metrics to track team health."
+    },
+    {
+      "question": "What systems does Schbang use to manage its business?",
+      "answer": "Schbang uses a repository called 'Schbang Basecamp' that contains all company information, case studies, and training materials. They also track monthly and quarterly business metrics on over 50 parameters for every business unit, including targets, salary budgets, and client satisfaction scores."
+    },
+    {
+      "question": "What is Harshil Karia's ultimate vision for Schbang?",
+      "answer": "His vision is for Schbang to be the first Indian agency to be everywhere in the world. He aims to build a 100,000-member company that brings the best of India to the world and the best of the world to India."
+    },
+    {
+      "question": "What is the best advice Karia has ever received?",
+      "answer": "He has been told that the answer to all problems in any business is 'growth'."
+    },
+    {
+      "question": "What is Harshil Karia's message to agency founders?",
+      "answer": "He advises them to have their 'agency smoothie' every day to achieve success. He wishes them a lot of success, clients, great work, and the ability to build great teams."
+    }
+  ]
+}
