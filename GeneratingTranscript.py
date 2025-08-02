@@ -4,8 +4,8 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from google import genai
 from google.genai import types
 
-YOUTUBE_API_KEY= 'AIzaSyAZko-KXF6usQ5yTZHDWxfDrkxz6gyiwBg'
-Gemini_api_key = 'AIzaSyCdyAE5eh95p0_f2gf3TNSUWvWbawpn13M'
+YOUTUBE_API_KEY= '<your-api-key>'
+Gemini_api_key = '<your-api-key>'
 
 #=======================================================================================================
 
@@ -103,3 +103,4 @@ def main():
         print("✅ All .txt files processed and saved.")
     else:
         print("No video IDs found to generate transcripts.")
+
