@@ -112,7 +112,7 @@ Visit: http://localhost:8000 in your browser.
 - Pulls context from cleaned real-life data
 - Fast, responsive, and easy to use
 
-# If you want to extract transcripts from youtube than follow below steps
+# If you want to extract transcripts from youtube than refer below steps (ExtractData.py)
 ## YouTube Transcript Summarizer Using Gemini API
 
 This project allows you to scrape the top 10 YouTube videos related to a specific keyword (e.g., "Harshil Karia"), extract their transcripts, and summarize the transcripts using **Google Gemini API**. The summarized text is then stored in a separate folder for further use.
