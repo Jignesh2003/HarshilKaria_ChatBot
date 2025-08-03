@@ -183,3 +183,6 @@ This will:
   -Extract the transcripts.
   -Summarize the transcripts using Gemini API.
   -Save the summarized content in the Summaries folder.
+
+## Results
+<img width="1914" height="915" alt="image" src="https://github.com/user-attachments/assets/7870971b-189b-4bb7-bf07-4f4d5f3c15d7" />
