@@ -3,10 +3,10 @@ import os
 from youtube_transcript_api import YouTubeTranscriptApi
 from google import genai
 from google.genai import types
+#=======================================================================================================
 
 YOUTUBE_API_KEY= '<your-api-key>'
 Gemini_api_key = '<your-api-key>'
-
 #=======================================================================================================
 
 #Fetching top 10 videos of the searched person from YouTube
@@ -71,10 +71,8 @@ def GenerateYtSummary(content):
     except Exception as e:
         print(f"API error: {e}")
         return None
-
 #=======================================================================================================
 
-#=======================================================================================================
 # Main function to execute the script
 def main():
     noOfVideos=10
@@ -103,4 +101,9 @@ def main():
         print("✅ All .txt files processed and saved.")
     else:
         print("No video IDs found to generate transcripts.")
+#=======================================================================================================
+if __name__ == "__main__":
+    main()
+
+
 
