@@ -18,7 +18,7 @@ Built using **Flask for backend** and **HTML/CSS/JavaScript for frontend**, this
 |-------------- |-------------------------------------|
 | Backend       | Flask (Python)                      |
 | Frontend      | HTML, CSS, JavaScript               |
-| AI Model      | Gemini API (prompt-based behavior)  |
+| API Used      | Gemini API, Youtube API             |
 | Data Storage  | Cleaned JSON file (used in prompt)  |
 | Hosting       | PythonAnyWhere, Github Pages        |
 
@@ -111,3 +111,75 @@ Visit: http://localhost:8000 in your browser.
 - Conversational, empathetic, and actionable style
 - Pulls context from cleaned real-life data
 - Fast, responsive, and easy to use
+
+# If you want to extract transcripts from youtube than follow below steps
+## YouTube Transcript Summarizer Using Gemini API
+
+This project allows you to scrape the top 10 YouTube videos related to a specific keyword (e.g., "Harshil Karia"), extract their transcripts, and summarize the transcripts using **Google Gemini API**. The summarized text is then stored in a separate folder for further use.
+
+---
+
+## 🛠️ Features
+
+- Scrapes the top 10 YouTube videos based on a search keyword.
+- Extracts video transcripts using the **YouTube Transcript API**.
+- Summarizes the transcript using **Gemini API**.
+- Saves the summarized content into a new folder.
+---
+
+## 🔧 Tech Stack
+
+- **Python** (for scripting)
+- **YouTube Transcript API** (for fetching video transcripts)
+- **Google Gemini API** (for text summarization)
+- **requests** (for making API requests)
+---
+
+## 🧰 Prerequisites
+
+- Python 3.x
+- YouTube Data API v3 key (`YOUTUBE_API_KEY`)
+- Gemini API key (`Gemini_api_key`)
+
+1. Install required libraries:
+    ```bash
+    pip install youtube-transcript-api
+    ```
+2. Replace the `YOUTUBE_API_KEY` and `Gemini_api_key` with your own API keys in the script.
+---
+
+## 📝 Script Overview
+
+### 1. **Fetching Top YouTube Videos**
+The script fetches the top 10 YouTube videos related to a search keyword (`Harshil Karia`) using the **YouTube Data API v3**. 
+
+```python
+def get_YT_videos(noOfVideos, SearchKeyword, YT_API_KEY):
+```
+This function returns a list of video IDs that are used in the subsequent transcript fetching step.
+
+### 2. **Generating Transcripts**
+The generate_transcripts function uses the YouTube Transcript API to extract the transcripts for the fetched video IDs and saves them as .txt files in the Transcripts folder.
+```python
+def generate_transcripts(video_ids):
+```
+### 3. **Summarizing Transcripts Using Gemini API**
+The GenerateYtSummary function takes the transcript text and passes it to the Gemini API to generate a summary. The summarization is done within 250 words.
+```python
+def GenerateYtSummary(content):
+```
+---
+## 🏃 How to Run
+
+1. Set up your API keys:
+  - Get a YouTube Data API key from the [Google Developers Console](https://console.cloud.google.com/apis/library?inv=1&invt=Ab4eaQ&project=playingsongsbasedonemotion).
+  - Get a Gemini API key from the [Gemini AiStudio](https://aistudio.google.com/app/apikey).
+2. Run the script:
+```bash
+python ExtractingData.py
+```
+This will:
+  -Fetch top 10 videos related to "Harshil Karia".
+  -Extract the transcripts.
+  -Summarize the transcripts using Gemini API.
+  -Save the summarized content in the Summaries folder.
