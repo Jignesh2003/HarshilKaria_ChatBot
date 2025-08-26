@@ -1,9 +1,12 @@
-# 🧠 Harshil Karia AI ChatBot
+# 🧠 Harshil Karia AI ChatBot (Stateless chatbot)
 
 A personalized AI chatbot that simulates the communication style, personality, and decision-making patterns of **Harshil Karia** — Founder of Schbang and a visionary in digital branding.
 
 Built using **Flask for backend** and **HTML/CSS/JavaScript for frontend**, this chatbot mimics Harshil’s tone and knowledge based on real-world data scraped from public platforms like YouTube and Instagram.
 
+NOTE: It is a stateless chatbot meaning it doesn't maintain the previous chat history i.e. no memory is of previous chat is stored. It only give response to the present input irrespective of maintaining the previous chats context.
+
+build for learning purpose.
 ---
 
 ## 🎯 Project Goal
